@@ -1,4 +1,4 @@
-### 📱 iOS Developer Extraordinaire 🚀
+## 📱 iOS Developer Extraordinaire 🚀
 
 Passionate about creating intuitive and immersive digital experiences, I'm an iOS Developer enthusiastic about transforming innovative concepts into engaging mobile applications. With a growing understanding of Apple's ecosystem, I'm dedicated to infusing creativity and technical expertise into every project.
 
@@ -31,6 +31,15 @@ Committed to staying abreast of the evolving tech landscape, I eagerly explore n
 Beyond coding, I'm passionately curious about groundbreaking ideas and emerging technologies. I actively seek opportunities to explore and push the boundaries of what iOS apps can achieve.
 
 In summary, as an iOS Developer, I'm earnestly blending technical expertise with a growing understanding of app development's human-centric aspect. Committed to delivering impactful iOS applications, I bring a fusion of enthusiasm, learning agility, and a dedication to user satisfaction to every project.
+
+## 🎓 Mastered technology
+
+|            |            |            |            |            |
+|------------|------------|------------|------------|------------|
+| 🚀 Swift   | 🌱 Git     | 📱 UIKit   | 🔄 GCD     | 🔌 REST    |
+| 🏗️ MVC     | 🏛️ MVVM    | 🏢 Clean architecture | 🌐 CocoaPods | 💾 UserDefaults |
+| 🔐 Keychain | 🗃️ SQLite  | 📂 CoreData | 🔲 AutoLayout | 🖼️ UICollectionView |
+| ✅ Unit Testing | 🛠️ UI Testing | 🧰 Xcode | 📦 Storyboards | 🔍 Debugging |
 
 
 ## 🛠️ Pet projects published on GitHub:
