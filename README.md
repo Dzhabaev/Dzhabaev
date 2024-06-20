@@ -1,66 +1,46 @@
-## 📱 iOS Developer Extraordinaire 🚀
+# Hi, I'm Chingiz 👋
 
-Passionate about creating intuitive and immersive digital experiences, I'm an iOS Developer enthusiastic about transforming innovative concepts into engaging mobile applications. With a growing understanding of Apple's ecosystem, I'm dedicated to infusing creativity and technical expertise into every project.
+#### 📱 Passionate iOS Developer
 
-#### 📦 Eager Learner of Swift
+Я выбрал мир iOS-разработки из-за идеального сочетания технической глубины и возможности создавать инновационные приложения. Быстрое развитие этой области и высокие стандарты качества позволяют мне активно влиять на пользовательский опыт.
 
-Continuously mastering Swift programming, I strive to craft clean, efficient, and functional code that brings applications to life. Embracing the intricacies of Swift, I am keen on implementing features and solving challenges with growing proficiency.
+#### 🚀 Mastering iOS Development
 
-#### 🎨 UI/UX Enthusiast
+Начав с изучения Swift и освоения ключевых архитектурных паттернов, я стремлюсь делать каждое приложение удобным и инновационным. Решение сложных задач и поиск новаторских решений мотивируют меня расти профессионально и творчески.
 
-I specialize in designing iOS applications that offer seamless navigation and an enjoyable user experience. From refining layouts to incorporating interactive elements, I aim to ensure users engage effortlessly with the app.
+#### 🌟 Innovator and Lifelong Learner
 
-#### 🔌 Aspiring API Integrator
+Я постоянно обучаюсь и изучаю новейшие технологии, чтобы создавать приложения, которые не только соответствуют современным требованиям, но и вдохновляют пользователей своей уникальностью и функциональностью.
 
-I'm driven to excel in integrating applications with diverse APIs, be it leveraging social media platforms or facilitating seamless communication between apps. I'm actively learning about exchange methods to ensure smooth app functionality.
+## 🎓 Stack
 
-#### 🛠️ Problem-Solving Enthusiast
-
-Challenges invigorate my pursuit of innovative solutions. I eagerly approach debugging and troubleshooting, utilizing my analytical skills to identify issues and implement effective solutions swiftly, gaining valuable experience with each problem solved.
-
-#### 🌀 Collaborative Team Player
-
-Embracing agile methodologies, I thrive in collaborative environments. Integrating seamlessly into cross-functional teams, I actively contribute to brainstorming sessions, sprint planning, and code reviews while honing my communication skills for transparent project progress.
-
-#### 📈 Constant Learner
-
-Committed to staying abreast of the evolving tech landscape, I eagerly explore new iOS developments, frameworks, and best practices. I'm always ready to adapt, ensuring my skills are up-to-date to implement the latest advancements in mobile app development.
-
-#### 🌟 Passionate Innovator
-
-Beyond coding, I'm passionately curious about groundbreaking ideas and emerging technologies. I actively seek opportunities to explore and push the boundaries of what iOS apps can achieve.
-
-In summary, as an iOS Developer, I'm earnestly blending technical expertise with a growing understanding of app development's human-centric aspect. Committed to delivering impactful iOS applications, I bring a fusion of enthusiasm, learning agility, and a dedication to user satisfaction to every project.
-
-## 🎓 Mastered technology
-
-|            |            |            |            |            |
-|------------|------------|------------|------------|------------|
-| 🚀 Swift   | 🌱 Git     | 📱 UIKit   | 🔄 GCD     | 🔌 REST    |
-| 🏗️ MVC     | 🏛️ MVVM    | 🏢 Clean architecture | 🌐 CocoaPods | 💾 UserDefaults |
-| 🔐 Keychain | 🗃️ SQLite  | 📂 CoreData | 🔲 AutoLayout | 🖼️ UICollectionView |
-| ✅ Unit Testing | 🛠️ UI Testing | 🧰 Xcode | 📦 Storyboards | 🔍 Debugging |
-
+|            |                     |                |                |                    |
+| ---------- | ------------------- | -------------- | -------------- | ------------------ |
+| 🚀 Swift    | 🌱 Git               | 📱 UIKit        | 🔄 GCD          | 🔌 REST             |
+| 🧩 SwiftUI  | 🔄 Combine           | 🏗️ MVC          | 🏛️ MVP          | 🏢 MVVM             |
+| 📦 SPM      | 📦 CocoaPods         | 🗂️ GitHub       | 💾 UserDefaults | 🔐 Keychain         |
+| 📂 CoreData | 🗃️ SQLite            | 🔄 URLSession   | 🔐 OAuth        | 🔲 AutoLayout       |
+| 📐 SnapKit  | 🧰 Interface Builder | ✅ Unit Testing | 🛠️ UI Testing   | 📸 Snapshot Testing |
+| 📚 SOLID    | 📚 KISS              | 📚 DRY          | 📚 YAGNI        | 📚 OOP              |
+| 🧰 Xcode    | 🧰 Sourcetree        | 📱 iOS          | 📝 Projects     | 📦 Decomposition    |
 
 ## 🛠️ Pet projects published on GitHub:
 
-| Project | Description | Technologies | Repository |
-| --- | --- | --- | --- |
-| ![NBAPlayers](https://github.com/Dzhabaev/Dzhabaev/assets/137287126/ae7970a2-68bd-4425-bf7b-9451aef00ab4) | **NBAPlayers**<br>An iOS application that displays a list of NBA basketball players and provides detailed information about each player and their team<br>**Technologies:**<br> | • Network: Client-server interaction using URLSession, URLRequest<br>• UITableViews<br> |  [Repository](https://github.com/Dzhabaev/NBAPlayers) |
-
-## 📚 Study projects published on GitHub:
-
-| Project | Description | Technologies | Repository |
-| --- | --- | --- | --- |
-| ![MovieQuiz-ios](https://github.com/Dzhabaev/Dzhabaev/assets/137287126/accddef8-596c-436c-bcb1-5aca4e91c9ed) | **MovieQuiz-ios**<br>A quiz app based on the top 250 movies according to IMDb<br>**Technologies:**<br> | • Figma for design<br>• Layout implementation and logic based on design<br>• Network: Client-server interaction using URLSession, URLRequest<br>• Unit tests and UI tests<br>• MVP architecture and refactoring<br>|  [Repository](https://github.com/Dzhabaev/MovieQuiz-ios) |
-| ![ImageFeed](https://github.com/Dzhabaev/Dzhabaev/assets/137287126/09e0f15a-ad3b-4033-8a3d-37e6fa02b710) | **ImageFeed**<br>A multi-page application designed for viewing images via the Unsplash API<br> | • OAuth 2.0 Authorization<br>• UITableViews, UIScrollView<br>• Code-based layout using Auto Layout<br>• Swift Package Manager (SPM)<br>• Network pagination and multithreading<br>• Security implementation with Keychain<br>• Animation for improved user experience<br> • Unit tests and UI tests<br> |  [Repository](https://github.com/Dzhabaev/ImageFeed) |
+| Project                                                      | Description                                                  | Technologies                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              | **[Каталог NFT (iOS-FakeNFT)](https://github.com/Dzhabaev/iOS-FakeNFT)**<br />Работая над приложением для просмотра и "покупки" NFT,<br />я получил ценный опыт командной работы<br />и самостоятельного выбора архитектуры.<br />Мы создали каталог с коллекциями NFT,<br />реализовали сетевые запросы и работали с многопоточностью.<br />Использование мокового сервера позволило имитировать покупки. | • UITableView<br />• UICollectionView<br />• SPM<br />• Projects<br />• Decomposition |
+|                                                              | **[Трекер привычек и целей (Tracker)](https://github.com/Dzhabaev/Tracker)**<br />Разрабатывая трекер для развития привычек,<br />я углубился в работу с Core Data и SQL.<br />Приложение, построенное на MVVM,<br />позволяет пользователям отслеживать прогресс по дням недели,<br />задавать расписание и выбирать оформление для каждой привычки.<br />Я также реализовал поддержку темной темы,<br />подключил аналитику и создал первые скриншот тесты. | • UICollectionView<br />• SQL<br />• CoreData<br />• MVVM<br />• UIPageViewController<br />• Snapshot Testing |
+| ![ImageFeed](https://github.com/Dzhabaev/Dzhabaev/assets/137287126/09e0f15a-ad3b-4033-8a3d-37e6fa02b710) | **[Интерактивная галерея изображений (ImageFeed)](https://github.com/Dzhabaev/ImageFeed)**<br />Для создания многостраничного приложения на основе API Unsplash<br />я активно использовал Git и многопоточность.<br />В приложении реализована авторизация через OAuth,<br />пользователи могут просматривать бесконечную ленту изображений,<br />добавлять их в избранное и делиться ссылками.<br />Я разработал удобную навигацию и интерфейс,<br />используя сторонние библиотеки для расширения функционала. | • OAuth 2.0 Authorization<br />• Auto Layout<br />• Animation<br />• UITableView<br />• UIScrollView<br />• SPM<br />• Keychain<br />• Unit-тесты<br />• UI-тесты<br />• Sourcetree<br /> |
+| ![MovieQuiz-ios](https://github.com/Dzhabaev/Dzhabaev/assets/137287126/accddef8-596c-436c-bcb1-5aca4e91c9ed) | **[Квиз по фильмам из Топ-250 IMDb (MovieQuiz-ios)](https://github.com/Dzhabaev/MovieQuiz-ios)**<br />Создавая квиз о фильмах, я применил MVC с ее последующим<br />рефакторингом на MVP для управления данными и интерфейсом.<br />Используя Interface Builder, я разработал привлекательный интерфейс,<br />а с помощью URLSession и URLRequest обеспечил обмен данными с сервером.<br />Приложение сохраняет пользовательские данные через User Defaults,<br />а тестирование гарантирует его стабильность. | • Figma for design<br />• Interface Builder<br />• User Defaults<br />• MVC<br/>• MVP<br/>• Refactoring<br />• URLSession<br/>• URLRequest |
+| ![NBAPlayers](https://github.com/Dzhabaev/Dzhabaev/assets/137287126/ae7970a2-68bd-4425-bf7b-9451aef00ab4) | **[NBAPlayers](https://github.com/Dzhabaev/NBAPlayers)**<br/>Приложение для отображения списка игроков NBA с подробной<br />информацией о каждом игроке и их команде. | • URLSession<br />• URLRequest<br />• UITableViews           |
 
 ## ⚙️ GitHub Statistics:
+
 <table>
   <tr>
     <td valign="top">
       <a href="http://www.github.com/Dzhabaev">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dzhabaev&show_icons=true&hide=stars,contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Dzhabaev's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Dzhabaev&show_icons=true&hide=stars,contribs&rank_icon=github" alt="Dzhabaev's GitHub stats" />
       </a>
     </td>
     <td valign="top">
@@ -70,3 +50,6 @@ In summary, as an iOS Developer, I'm earnestly blending technical expertise with
     </td>
   </tr>
 </table>
+
+## 🤝 Connect with me
+ [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=)](https://t.me/DChingis)[![email](https://img.shields.io/static/v1?style=for-the-badge&message=email&color=0078D4&logo=maildotru&logoColor=FFFFFF&label=)](mailto:dzhanaev@outlook.com)
